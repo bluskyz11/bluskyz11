@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bluskyz11
+- 👋 Hi, I’m @bluskyz11 (she/her)
 - 👀 I’m interested in neuroscience, programming, and psychology
 - 🌱 I’m currently learning how to use GitHub and survive highschool
 - 💞️ I’m looking to collaborate on anything at a beginner level and with Python
