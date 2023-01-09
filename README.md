@@ -1,2 +1,3 @@
 - Hi, I’m @bluskyz11 (she/her)
 - I can program with Java, HTML, CSS, and Javascript but Python is my favorite :)
+- Working on 2023 FRC competition
